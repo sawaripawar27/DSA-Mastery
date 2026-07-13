@@ -1,0 +1,22 @@
+print("hello")
+name="Sawari"
+sname="Pawar"
+print(name, end=" ")
+print(sname, end=" ")
+
+age=21
+print(type(name))
+print(type(age))
+
+islogin=True
+print(type(islogin))
+
+c=2+3j
+print(type(c))
+
+print("My name is=",name)
+print("My surname is=",sname)
+print("My age is=",age)
+
+
+print(f"my name is {name}") 
